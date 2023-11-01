@@ -1,0 +1,9 @@
+.gradle
+.idea
+build
+graddle
+gradle
+gradlew.bat
+gradlew
+/notifications/
+/notifications/config.json
